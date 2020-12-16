@@ -4,6 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <!-- -AdScene link--->
+<script data-ad-client="pub-4349699257963910" async src="https://pagead2.googlesyndication.com/
+pagead/js/adsbygoogle.js"></script>
 
   <title>ptechie consulting firm</title>
   <meta content="Ptechie is the leading IT consulting firm in Kenya and Africa at large" name="description">
