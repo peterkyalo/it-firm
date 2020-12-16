@@ -8,7 +8,7 @@
 <script data-ad-client="pub-4349699257963910" async src="https://pagead2.googlesyndication.com/
 pagead/js/adsbygoogle.js"></script>
 
-  <title>ptechie consulting firm</title>
+  <title>ptechie IT consulting firm</title>
   <meta content="Ptechie is the leading IT consulting firm in Kenya and Africa at large" name="description">
   <meta content="Ptechie IT Consulting Firm" name="keywords">
 
